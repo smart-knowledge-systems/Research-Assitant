@@ -1,0 +1,122 @@
+[
+  {
+    "id": "combinatoriality",
+    "primaryWeight": 10,
+    "description": "The structure and combination of orthographic elements in written words."
+  },
+  {
+    "id": "perceptual_symbol_systems",
+    "primaryWeight": 10,
+    "description": "Barsalou\u2019s theory that concepts are represented by perceptual simulations."
+  },
+  {
+    "id": "social_tools",
+    "primaryWeight": 10,
+    "description": "Words as socially constructed tools that mediate communication."
+  },
+  {
+    "id": "literacy_acquisition",
+    "primaryWeight": 9,
+    "description": "Processes and theories related to how individuals learn to read."
+  },
+  {
+    "id": "meaning_construction",
+    "primaryWeight": 8,
+    "description": "Cognitive processes that build meaning from text."
+  },
+  {
+    "id": "socioperception",
+    "primaryWeight": 8,
+    "description": "The perception of one's position, movement, and felt alignment within socially constructed semantic networks. Socioperception combines aspects of both proprioception (sensing position and movement) and interoception (sensing internal states) but functions primarily in the interstitial space between minds rather than within the individual body."
+  },
+  {
+    "id": "word_recognition",
+    "primaryWeight": 8,
+    "description": "Mechanisms involved in recognizing written words quickly and accurately."
+  },
+  {
+    "id": "embodied_cognition",
+    "primaryWeight": 8,
+    "description": "The idea that cognitive processes are grounded in sensorimotor experiences."
+  },
+  {
+    "id": "semantic_access",
+    "primaryWeight": 8,
+    "description": "How meaning is accessed and retrieved from written text."
+  },
+  {
+    "id": "procedural_memory",
+    "primaryWeight": 7,
+    "description": "Role of procedural memory in the development of reading skills."
+  },
+  {
+    "id": "neural_efficiency",
+    "primaryWeight": 7,
+    "description": "Optimal neural resource allocation for visual word processing."
+  },
+  {
+    "id": "chunking_processes",
+    "primaryWeight": 7,
+    "description": "Grouping of letters or letter patterns to facilitate faster recognition."
+  },
+  {
+    "id": "visual_word_form_area",
+    "primaryWeight": 7,
+    "description": "Brain region specialized for processing orthographic information."
+  },
+  {
+    "id": "hierarchical_processing",
+    "primaryWeight": 6,
+    "description": "Multi-level organization of cognitive and neural processing in reading."
+  },
+  {
+    "id": "multimodal_representation",
+    "primaryWeight": 6,
+    "description": "Integration of visual, auditory, and motor information in reading."
+  },
+  {
+    "id": "symbol_complexity",
+    "primaryWeight": 6,
+    "description": "Variability in symbol shapes and their informational load."
+  },
+  {
+    "id": "orthographic_complexity",
+    "primaryWeight": 6,
+    "description": "The visual complexity and variability of letter and symbol forms."
+  },
+  {
+    "id": "cognitive_scaffolding",
+    "primaryWeight": 6,
+    "description": "Use of language and symbols as tools for cognitive enhancement."
+  },
+  {
+    "id": "ventral_stream_hierarchy",
+    "primaryWeight": 5,
+    "description": "Hierarchical processing levels in the visual ventral stream for object and word recognition."
+  },
+  {
+    "id": "phonemic_mapping",
+    "primaryWeight": 5,
+    "description": "Mapping between letters and phonemes in alphabetic systems."
+  },
+  {
+    "id": "orthographic_mapping",
+    "primaryWeight": 5,
+    "description": "How orthographic patterns are encoded into memory during reading."
+  },
+  {
+    "id": "visual_object_recognition",
+    "primaryWeight": 4,
+    "description": "General mechanisms for recognizing visual objects, extended to letters."
+  },
+  {
+    "id": "cultural_artifacts",
+    "primaryWeight": 3,
+    "description": "How writing systems develop as cultural technologies."
+  },
+  {
+    "id": "writing_system_variability",
+    "primaryWeight": 3,
+    "description": "Differences among scripts and their impact on reading acquisition."
+  }
+]
